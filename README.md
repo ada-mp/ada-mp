@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello, I'm Ada! 👋
+### Welcome to my GitHub
 
 <!--
 **ada-mp/ada-mp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
