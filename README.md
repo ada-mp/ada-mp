@@ -9,12 +9,14 @@ I'm a Computational Physics student at University of São Paulo. I'm interested 
 
 <div style="display: inline_block"><br>
 
-<div>
+<div align="center">
   <h3>Languages and Tools</h3>
 </div>
+<div align="center">
   <img align="center" alt="Ada-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ada-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
   <img align="center" alt="Ada-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  
 </div>
 
 ##
