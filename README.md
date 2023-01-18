@@ -6,5 +6,3 @@ I'm a Computational Physics student at University of São Paulo. I'm interested 
 - 🌱 I’m currently learning Data Science, Machine Learning and Mobile Development.
 - 👯 I’m looking to work as a Data Science intern.
 - 😄 Pronouns: She/Her
-
-<div style="display: inline_block"><br>
