@@ -1,6 +1,6 @@
 ### Hello, I'm Ada! 👋
 
-I'm a Computational Physics student at University of São Paulo. I'm interested in improving my Data Science skills developing projects that I'll upload here.
+I'm a Statistics and Data Science student at University of São Paulo. I'm interested in improving my Data Science skills developing projects that I'll upload here.
 
 - 🔭 I’m currently a Scientific Initiation fellow at the Institute of Mathematics and Computer Sciences at the University of São Paulo.
 - 🌱 I’m currently learning Data Science, Machine Learning and Mobile Development.
