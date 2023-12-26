@@ -3,7 +3,6 @@
 I'm a Statistics and Data Science student at University of São Paulo. I'm interested in improving my Data Science skills developing projects that I'll upload here.
 
 - 🔭 I’m currently a Scientific Initiation fellow at the Institute of Mathematics and Computer Sciences at the University of São Paulo.
-- 🌱 I’m currently learning Data Science, Machine Learning and Mobile Development.
 - 👯 I’m looking to work as a Data Science intern.
 - 😄 Pronouns: She/Her
 
