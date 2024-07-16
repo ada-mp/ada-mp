@@ -15,7 +15,7 @@ I'm a Statistics and Data Science student at University of São Paulo. I'm inter
   <img align="center" alt="Ada-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ada-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
   <img align="center" alt="Ada-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="Ada-R" height="30" width="40" src="https://w1.pngwing.com/pngs/451/367/png-transparent-pdf-logo-r-cran-statgraphics-rnn-programming-language-data-analysis-cairo.png" />
+  <img align="center" alt="Ada-R" height="30" width="40" src="https://www.r-project.org/Rlogo.png" />
 
 </div>
 
